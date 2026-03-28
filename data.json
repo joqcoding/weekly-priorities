@@ -3,6 +3,7 @@
   "updated_date": "March 28, 2026",
   "month_theme": "Final IB push + Northwestern transition prep",
   "must_do": [
+    {"text": "Finish Part 1 of Biology Credit", "deadline": null, "done": false},
     {"text": "Physics HL — Complete 2 full timed past papers (P1 + P2), review mark schemes", "deadline": "Apr 5", "done": false},
     {"text": "Chemistry HL — Review organic synthesis and spectroscopy weak areas", "deadline": "Apr 4", "done": false},
     {"text": "Check Northwestern housing portal — confirm tuition deposit status", "deadline": null, "done": false}
