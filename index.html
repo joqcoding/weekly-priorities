@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Joaquin — Weekly Priorities</title>
+  <style>
+    :root {
+      --bg: #0a0a0f;
+      --surface: #13131a;
+      --border: #1e1e2a;
+      --text: #e4e4ef;
+      --text-muted: #8888a0;
+      --accent: #6c8cff;
+      --accent-dim: #3a4a80;
+      --green: #4ade80;
+      --yellow: #fbbf24;
+      --red: #f87171;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      padding: 2rem 1rem;
+    }
+    .container {
+      max-width: 640px;
+      margin: 0 auto;
+    }
+    header {
+      margin-bottom: 2.5rem;
+    }
+    header h1 {
+      font-size: 1.5rem;
+      font-weight: 600;
+      letter-spacing: -0.02em;
+      margin-bottom: 0.25rem;
+    }
+    header .meta {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+    }
+    header .theme {
+      margin-top: 0.75rem;
+      padding: 0.6rem 0.9rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      font-size: 0.9rem;
+      color: var(--accent);
+    }
+    .section {
+      margin-bottom: 2rem;
+    }
+    .section-title {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--text-muted);
+      margin-bottom: 0.75rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .section-title .dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+    }
+    .section-title .dot.red { background: var(--red); }
+    .section-title .dot.yellow { background: var(--yellow); }
+    .section-title .dot.green { background: var(--green); }
+    .task-list {
+      list-style: none;
+    }
+    .task-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.75rem;
+      padding: 0.7rem 0.9rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      margin-bottom: 0.5rem;
+      font-size: 0.9rem;
+      line-height: 1.4;
+    }
+    .task-item .checkbox {
+      flex-shrink: 0;
+      width: 18px;
+      height: 18px;
+      border: 2px solid var(--accent-dim);
+      border-radius: 4px;
+      margin-top: 1px;
+    }
+    .task-item.done .checkbox {
+      background: var(--accent);
+      border-color: var(--accent);
+    }
+    .task-item.done .task-text {
+      text-decoration: line-through;
+      color: var(--text-muted);
+    }
+    .task-text {
+      flex: 1;
+    }
+    .task-deadline {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      margin-top: 0.2rem;
+    }
+    .dates-section {
+      margin-bottom: 2rem;
+    }
+    .date-item {
+      display: flex;
+      gap: 0.75rem;
+      padding: 0.5rem 0;
+      font-size: 0.85rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .date-item:last-child { border-bottom: none; }
+    .date-day {
+      color: var(--accent);
+      font-weight: 600;
+      min-width: 3rem;
+    }
+    .notes {
+      padding: 0.8rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      line-height: 1.5;
+    }
+    footer {
+      margin-top: 3rem;
+      text-align: center;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Weekly Priorities</h1>
+      <div class="meta">Week of March 30 – April 5, 2026 · Updated March 28, 2026</div>
+      <div class="theme">Final IB push + Northwestern transition prep</div>
+    </header>
+
+    <div class="section">
+      <div class="section-title"><span class="dot red"></span> Must Do</div>
+      <ul class="task-list" id="must-do">
+        <li class="task-item">
+  <div class="checkbox"></div>
+  <div class="task-text">Physics HL — Complete 2 full timed past papers (P1 + P2), review mark schemes<div class="task-deadline">Due: Apr 5</div></div>
+</li>
+        <li class="task-item">
+  <div class="checkbox"></div>
+  <div class="task-text">Chemistry HL — Review organic synthesis and spectroscopy weak areas<div class="task-deadline">Due: Apr 4</div></div>
+</li>
+        <li class="task-item">
+  <div class="checkbox"></div>
+  <div class="task-text">Check Northwestern housing portal — confirm tuition deposit status</div>
+</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <div class="section-title"><span class="dot yellow"></span> Should Do</div>
+      <ul class="task-list" id="should-do">
+        <li class="task-item">
+  <div class="checkbox"></div>
+  <div class="task-text">Math AA HL — Practice 1 full Paper 3 under timed conditions</div>
+</li>
+        <li class="task-item">
+  <div class="checkbox"></div>
+  <div class="task-text">Spanish B — Review 'Cómo compartimos el planeta' theme notes for IO prep</div>
+</li>
+        <li class="task-item">
+  <div class="checkbox"></div>
+  <div class="task-text">Start a list of Northwestern project teams and clubs to research (Design Build Fly, CubeSat, etc.)</div>
+</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <div class="section-title"><span class="dot green"></span> Could Do</div>
+      <ul class="task-list" id="could-do">
+        <li class="task-item">
+  <div class="checkbox"></div>
+  <div class="task-text">Browse Impulse Space and Orbit Fab career pages — 2027 internship awareness</div>
+</li>
+        <li class="task-item">
+  <div class="checkbox"></div>
+  <div class="task-text">Read one chapter of an orbital mechanics intro textbook</div>
+</li>
+      </ul>
+    </div>
+
+    <div class="dates-section">
+      <div class="section-title">Key Dates</div>
+      <div class="date-item"><span class="date-day">Apr 28</span><span>Physics HL Paper 1 — first IB exam (30 days away)</span></div>
+      <div class="date-item"><span class="date-day">May 14</span><span>Math AA HL Paper 1</span></div>
+      <div class="date-item"><span class="date-day">May 15</span><span>Chemistry HL Paper 1</span></div>
+      <div class="date-item"><span class="date-day">May 20</span><span>Math AA HL Paper 3 — final exam</span></div>
+      <div class="date-item"><span class="date-day">Jun 1</span><span>Northwestern housing preferences deadline</span></div>
+      <div class="date-item"><span class="date-day">Sep 15</span><span>Northwestern move-in day</span></div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Notes</div>
+      <div class="notes">Physics HL is your first exam in exactly 30 days. Every practice paper you do now has outsized impact. Chemistry and Math follow in mid-May — build momentum on Physics first, then shift. The Northwestern housing portal is open now through June 1 — handle the admin early so it's off your plate during exams.</div>
+    </div>
+
+    <footer>
+      Generated by Computer · Life Coach Skill
+    </footer>
+  </div>
+</body>
+</html>

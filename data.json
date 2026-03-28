@@ -1,0 +1,28 @@
+{
+  "week_date": "March 30 – April 5, 2026",
+  "updated_date": "March 28, 2026",
+  "month_theme": "Final IB push + Northwestern transition prep",
+  "must_do": [
+    {"text": "Physics HL — Complete 2 full timed past papers (P1 + P2), review mark schemes", "deadline": "Apr 5", "done": false},
+    {"text": "Chemistry HL — Review organic synthesis and spectroscopy weak areas", "deadline": "Apr 4", "done": false},
+    {"text": "Check Northwestern housing portal — confirm tuition deposit status", "deadline": null, "done": false}
+  ],
+  "should_do": [
+    {"text": "Math AA HL — Practice 1 full Paper 3 under timed conditions", "deadline": null, "done": false},
+    {"text": "Spanish B — Review 'Cómo compartimos el planeta' theme notes for IO prep", "deadline": null, "done": false},
+    {"text": "Start a list of Northwestern project teams and clubs to research (Design Build Fly, CubeSat, etc.)", "deadline": null, "done": false}
+  ],
+  "could_do": [
+    {"text": "Browse Impulse Space and Orbit Fab career pages — 2027 internship awareness", "deadline": null, "done": false},
+    {"text": "Read one chapter of an orbital mechanics intro textbook", "deadline": null, "done": false}
+  ],
+  "key_dates": [
+    {"day": "Apr 28", "event": "Physics HL Paper 1 — first IB exam (30 days away)"},
+    {"day": "May 14", "event": "Math AA HL Paper 1"},
+    {"day": "May 15", "event": "Chemistry HL Paper 1"},
+    {"day": "May 20", "event": "Math AA HL Paper 3 — final exam"},
+    {"day": "Jun 1", "event": "Northwestern housing preferences deadline"},
+    {"day": "Sep 15", "event": "Northwestern move-in day"}
+  ],
+  "notes": "Physics HL is your first exam in exactly 30 days. Every practice paper you do now has outsized impact. Chemistry and Math follow in mid-May — build momentum on Physics first, then shift. The Northwestern housing portal is open now through June 1 — handle the admin early so it's off your plate during exams."
+}
