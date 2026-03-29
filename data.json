@@ -1,6 +1,6 @@
 {
   "week_date": "March 30 – April 5, 2026",
-  "updated_date": "March 28, 2026",
+  "updated_date": "March 29, 2026",
   "month_theme": "Final IB push + Northwestern transition prep",
   "must_do": [
     {"text": "Finish Part 1 of Biology Credit", "deadline": null, "done": false},
@@ -10,7 +10,7 @@
   ],
   "should_do": [
     {"text": "Math AA HL — Practice 1 full Paper 3 under timed conditions", "deadline": null, "done": false},
-    {"text": "Spanish B — Review 'Cómo compartimos el planeta' theme notes for IO prep", "deadline": null, "done": false},
+    {"text": "Spanish B — Review 'Como compartimos el planeta' theme notes for IO prep", "deadline": null, "done": false},
     {"text": "Start a list of Northwestern project teams and clubs to research (Design Build Fly, CubeSat, etc.)", "deadline": null, "done": false}
   ],
   "could_do": [
@@ -18,12 +18,12 @@
     {"text": "Read one chapter of an orbital mechanics intro textbook", "deadline": null, "done": false}
   ],
   "key_dates": [
-    {"day": "Apr 28", "event": "Physics HL Paper 1 — first IB exam (30 days away)"},
+    {"day": "Apr 28", "event": "Physics HL Paper 1 — first IB exam (29 days away)"},
     {"day": "May 14", "event": "Math AA HL Paper 1"},
     {"day": "May 15", "event": "Chemistry HL Paper 1"},
     {"day": "May 20", "event": "Math AA HL Paper 3 — final exam"},
     {"day": "Jun 1", "event": "Northwestern housing preferences deadline"},
     {"day": "Sep 15", "event": "Northwestern move-in day"}
   ],
-  "notes": "Physics HL is your first exam in exactly 30 days. Every practice paper you do now has outsized impact. Chemistry and Math follow in mid-May — build momentum on Physics first, then shift. The Northwestern housing portal is open now through June 1 — handle the admin early so it's off your plate during exams."
+  "notes": "29 days until Physics HL. This week is about building exam momentum — prioritize timed past papers over passive review. Biology Credit is top of the list. Northwestern housing admin can be knocked out in 15 minutes — do it early in the week so it's off your plate."
 }
