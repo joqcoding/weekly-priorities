@@ -1,14 +1,17 @@
 {
   "week_date": "March 30 – April 5, 2026",
-  "updated_date": "March 29, 2026",
+  "updated_date": "April 2, 2026",
   "month_theme": "Final IB push + Northwestern transition prep",
   "must_do": [
+    {"text": "Promposal shopping", "deadline": null, "done": false},
+    {"text": "PanaStudies module completion", "deadline": null, "done": false},
     {"text": "Finish Part 1 of Biology Credit", "deadline": null, "done": false},
     {"text": "Physics HL — Complete 2 full timed past papers (P1 + P2), review mark schemes", "deadline": "Apr 5", "done": false},
     {"text": "Chemistry HL — Review organic synthesis and spectroscopy weak areas", "deadline": "Apr 4", "done": false},
     {"text": "Check Northwestern housing portal — confirm tuition deposit status", "deadline": null, "done": false}
   ],
   "should_do": [
+    {"text": "Biology module completion", "deadline": null, "done": false},
     {"text": "Math AA HL — Practice 1 full Paper 3 under timed conditions", "deadline": null, "done": false},
     {"text": "Spanish B — Review 'Como compartimos el planeta' theme notes for IO prep", "deadline": null, "done": false},
     {"text": "Start a list of Northwestern project teams and clubs to research (Design Build Fly, CubeSat, etc.)", "deadline": null, "done": false}
@@ -18,12 +21,12 @@
     {"text": "Read one chapter of an orbital mechanics intro textbook", "deadline": null, "done": false}
   ],
   "key_dates": [
-    {"day": "Apr 28", "event": "Physics HL Paper 1 — first IB exam (29 days away)"},
+    {"day": "Apr 28", "event": "Physics HL Paper 1 — first IB exam (26 days away)"},
     {"day": "May 14", "event": "Math AA HL Paper 1"},
     {"day": "May 15", "event": "Chemistry HL Paper 1"},
     {"day": "May 20", "event": "Math AA HL Paper 3 — final exam"},
     {"day": "Jun 1", "event": "Northwestern housing preferences deadline"},
     {"day": "Sep 15", "event": "Northwestern move-in day"}
   ],
-  "notes": "29 days until Physics HL. This week is about building exam momentum — prioritize timed past papers over passive review. Biology Credit is top of the list. Northwestern housing admin can be knocked out in 15 minutes — do it early in the week so it's off your plate."
+  "notes": "26 days until Physics HL. This week is about building exam momentum — prioritize timed past papers over passive review. Biology Credit is top of the list. Northwestern housing admin can be knocked out in 15 minutes — do it early in the week so it's off your plate."
 }
