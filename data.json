@@ -1,32 +1,32 @@
 {
-  "week_date": "March 30 – April 5, 2026",
-  "updated_date": "April 2, 2026",
+  "week_date": "April 6 – 12, 2026",
+  "updated_date": "April 5, 2026",
   "month_theme": "Final IB push + Northwestern transition prep",
   "must_do": [
-    {"text": "Promposal shopping", "deadline": null, "done": false},
-    {"text": "PanaStudies module completion", "deadline": null, "done": false},
-    {"text": "Finish Part 1 of Biology Credit", "deadline": null, "done": false},
-    {"text": "Physics HL — Complete 2 full timed past papers (P1 + P2), review mark schemes", "deadline": "Apr 5", "done": false},
-    {"text": "Chemistry HL — Review organic synthesis and spectroscopy weak areas", "deadline": "Apr 4", "done": false},
-    {"text": "Check Northwestern housing portal — confirm tuition deposit status", "deadline": null, "done": false}
+    {"text": "Physics HL — 2 more timed past papers (P1 + P2). Target weak question types from last week's mark scheme review", "deadline": "Apr 12", "done": false},
+    {"text": "Chemistry HL — Timed Paper 1 (MCQ) practice + review equilibrium and thermodynamics", "deadline": "Apr 11", "done": false},
+    {"text": "Math AA HL — 1 full timed Paper 1 + 1 Paper 2 under exam conditions", "deadline": "Apr 12", "done": false},
+    {"text": "PanaStudies module completion (carried forward)", "deadline": null, "done": false},
+    {"text": "Biology module completion (carried forward from Should Do)", "deadline": null, "done": false}
   ],
   "should_do": [
-    {"text": "Biology module completion", "deadline": null, "done": false},
-    {"text": "Math AA HL — Practice 1 full Paper 3 under timed conditions", "deadline": null, "done": false},
-    {"text": "Spanish B — Review 'Como compartimos el planeta' theme notes for IO prep", "deadline": null, "done": false},
-    {"text": "Start a list of Northwestern project teams and clubs to research (Design Build Fly, CubeSat, etc.)", "deadline": null, "done": false}
+    {"text": "English A Lang & Lit SL — Review Paper 1 unseen text analysis technique. Outline 2 practice responses", "deadline": null, "done": false},
+    {"text": "Spanish B — Timed practice: write one 300-word Written Assignment response", "deadline": null, "done": false},
+    {"text": "Economics SL — Review macro diagrams and key definitions for Paper 1 essays", "deadline": null, "done": false},
+    {"text": "Northwestern housing portal — submit preferences if not done last week", "deadline": null, "done": false}
   ],
   "could_do": [
-    {"text": "Browse Impulse Space and Orbit Fab career pages — 2027 internship awareness", "deadline": null, "done": false},
-    {"text": "Read one chapter of an orbital mechanics intro textbook", "deadline": null, "done": false}
+    {"text": "Research Northwestern engineering project teams (Design Build Fly, CubeSat, Space Tech)", "deadline": null, "done": false},
+    {"text": "Identify 1-2 McCormick ME professors doing space or dynamics research for a summer email", "deadline": null, "done": false}
   ],
   "key_dates": [
-    {"day": "Apr 28", "event": "Physics HL Paper 1 — first IB exam (26 days away)"},
+    {"day": "Apr 28", "event": "Physics HL Paper 1 — 22 days away"},
+    {"day": "Apr 29", "event": "Physics HL Paper 2"},
+    {"day": "May 7", "event": "English A Lang & Lit SL Paper 1"},
+    {"day": "May 12", "event": "Economics SL Paper 2"},
     {"day": "May 14", "event": "Math AA HL Paper 1"},
     {"day": "May 15", "event": "Chemistry HL Paper 1"},
-    {"day": "May 20", "event": "Math AA HL Paper 3 — final exam"},
-    {"day": "Jun 1", "event": "Northwestern housing preferences deadline"},
-    {"day": "Sep 15", "event": "Northwestern move-in day"}
+    {"day": "May 20", "event": "Math AA HL Paper 3 — final exam"}
   ],
-  "notes": "26 days until Physics HL. This week is about building exam momentum — prioritize timed past papers over passive review. Biology Credit is top of the list. Northwestern housing admin can be knocked out in 15 minutes — do it early in the week so it's off your plate."
+  "notes": "22 days until Physics HL. You are now inside the 3-week countdown. This week the priority shifts: every HL subject should get at least one full timed paper. Passive review is over -- it is all timed practice and mark scheme analysis from here. PanaStudies and Biology modules are carried forward as must-dos. If Northwestern housing is still not done, handle it Monday morning -- 10 minutes, then forget about it until August."
 }
