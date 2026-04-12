@@ -1,27 +1,26 @@
 {
-  "week_date": "April 6 – 12, 2026",
-  "updated_date": "April 5, 2026",
-  "month_theme": "Final IB push + Northwestern transition prep",
+  "week_date": "April 13 – 19, 2026",
+  "updated_date": "April 12, 2026",
+  "month_theme": "Final IB push — 15 days to Physics HL",
   "must_do": [
-    {"text": "Physics HL — 2 more timed past papers (P1 + P2). Target weak question types from last week's mark scheme review", "deadline": "Apr 12", "done": false},
-    {"text": "Chemistry HL — Timed Paper 1 (MCQ) practice + review equilibrium and thermodynamics", "deadline": "Apr 11", "done": false},
-    {"text": "Math AA HL — 1 full timed Paper 1 + 1 Paper 2 under exam conditions", "deadline": "Apr 12", "done": false},
-    {"text": "PanaStudies module completion (carried forward)", "deadline": null, "done": false},
-    {"text": "Biology module completion (carried forward from Should Do)", "deadline": null, "done": false}
+    {"text": "Physics HL — 2 full timed past papers (P1 + P2). This is the final full week before exam lockdown. No exceptions.", "deadline": "Apr 19", "done": false},
+    {"text": "Physics HL — Topic drills on your weakest 2-3 areas identified from mark scheme reviews", "deadline": "Apr 17", "done": false},
+    {"text": "Chemistry HL — 1 full timed Paper 2 (extended response) under exam conditions", "deadline": "Apr 18", "done": false},
+    {"text": "Math AA HL — 1 timed Paper 3 (the one that matters most — hardest to cram)", "deadline": "Apr 19", "done": false}
   ],
   "should_do": [
-    {"text": "English P1 rewrite", "deadline": null, "done": false},
-    {"text": "English A Lang & Lit SL — Review Paper 1 unseen text analysis technique. Outline 2 practice responses", "deadline": null, "done": false},
-    {"text": "Spanish B — Timed practice: write one 300-word Written Assignment response", "deadline": null, "done": false},
-    {"text": "Economics SL — Review macro diagrams and key definitions for Paper 1 essays", "deadline": null, "done": false},
-    {"text": "Northwestern housing portal — submit preferences if not done last week", "deadline": null, "done": false}
+    {"text": "English P1 rewrite (carried forward)", "deadline": null, "done": false},
+    {"text": "English A Lang & Lit SL — 1 timed unseen text analysis under exam conditions", "deadline": null, "done": false},
+    {"text": "Economics SL — 1 timed Paper 1 essay response (choose a macro topic)", "deadline": null, "done": false},
+    {"text": "Northwestern housing portal — final reminder, deadline is June 1 but do it now", "deadline": null, "done": false}
   ],
   "could_do": [
-    {"text": "Research Northwestern engineering project teams (Design Build Fly, CubeSat, Space Tech)", "deadline": null, "done": false},
-    {"text": "Identify 1-2 McCormick ME professors doing space or dynamics research for a summer email", "deadline": null, "done": false}
+    {"text": "Spanish B — review IO stimulus themes, make a quick cheat sheet of key vocab per theme", "deadline": null, "done": false},
+    {"text": "Update your career coach on your university decision — a lot has changed this week", "deadline": null, "done": false}
   ],
   "key_dates": [
-    {"day": "Apr 28", "event": "Physics HL Paper 1 — 22 days away"},
+    {"day": "Apr 24", "event": "IB exam window opens"},
+    {"day": "Apr 28", "event": "Physics HL Paper 1 — 15 days away"},
     {"day": "Apr 29", "event": "Physics HL Paper 2"},
     {"day": "May 7", "event": "English A Lang & Lit SL Paper 1"},
     {"day": "May 12", "event": "Economics SL Paper 2"},
@@ -29,5 +28,5 @@
     {"day": "May 15", "event": "Chemistry HL Paper 1"},
     {"day": "May 20", "event": "Math AA HL Paper 3 — final exam"}
   ],
-  "notes": "22 days until Physics HL. You are now inside the 3-week countdown. This week the priority shifts: every HL subject should get at least one full timed paper. Passive review is over -- it is all timed practice and mark scheme analysis from here. PanaStudies and Biology modules are carried forward as must-dos. If Northwestern housing is still not done, handle it Monday morning -- 10 minutes, then forget about it until August."
+  "notes": "15 days to Physics HL. This is the last full prep week — next Sunday you will be inside the exam window. Physics gets the lion's share of this week. After April 19, pivot to near-full Physics simulation mode until April 28, then pivot hard to English. PanaStudies and Biology modules have been dropped from this week's list — if they are not done, you need to decide now whether to finish them this week or accept the delay. Also: your career plan may be due for an update based on recent conversations about university direction. Talk to your coach when you have a quiet moment."
 }
