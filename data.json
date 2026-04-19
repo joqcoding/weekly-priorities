@@ -1,32 +1,30 @@
 {
-  "week_date": "April 13 – 19, 2026",
-  "updated_date": "April 12, 2026",
-  "month_theme": "Final IB push — 15 days to Physics HL",
+  "week_date": "April 20 – 26, 2026",
+  "updated_date": "April 19, 2026",
+  "month_theme": "Exam lockdown — 9 days to Physics HL",
   "must_do": [
-    {"text": "Physics HL — 2 full timed past papers (P1 + P2). This is the final full week before exam lockdown. No exceptions.", "deadline": "Apr 19", "done": false},
-    {"text": "Physics HL — Topic drills on your weakest 2-3 areas identified from mark scheme reviews", "deadline": "Apr 17", "done": false},
-    {"text": "Chemistry HL — 1 full timed Paper 2 (extended response) under exam conditions", "deadline": "Apr 18", "done": false},
-    {"text": "Math AA HL — 1 timed Paper 3 (the one that matters most — hardest to cram)", "deadline": "Apr 19", "done": false}
+    {"text": "Physics HL — Full exam simulation: P1 (45 min MCQ) + P2 (2h 15min) back to back under real conditions. Do this Monday and Wednesday.", "deadline": "Apr 23", "done": false},
+    {"text": "Physics HL — Final targeted drills on weakest 2-3 topics only. No broad review — go where you lose marks.", "deadline": "Apr 25", "done": false},
+    {"text": "Physics HL — Rest and light notes review on Apr 27 (day before exam). No new papers.", "deadline": "Apr 27", "done": false}
   ],
   "should_do": [
-    {"text": "English P1 rewrite (carried forward)", "deadline": null, "done": false},
-    {"text": "English A Lang & Lit SL — 1 timed unseen text analysis under exam conditions", "deadline": null, "done": false},
-    {"text": "Economics SL — 1 timed Paper 1 essay response (choose a macro topic)", "deadline": null, "done": false},
-    {"text": "Northwestern housing portal — final reminder, deadline is June 1 but do it now", "deadline": null, "done": false}
+    {"text": "English A Lang & Lit SL — 1 timed Paper 1 unseen text analysis (exam is May 7, keep it warm)", "deadline": null, "done": false},
+    {"text": "Chemistry HL — 30-minute topic sweep: organic synthesis, acid-base, and redox key equations", "deadline": null, "done": false},
+    {"text": "Math AA HL — 20-minute Paper 3 technique review: know what style of problem to expect", "deadline": null, "done": false}
   ],
   "could_do": [
-    {"text": "Spanish B — review IO stimulus themes, make a quick cheat sheet of key vocab per theme", "deadline": null, "done": false},
-    {"text": "Update your career coach on your university decision — a lot has changed this week", "deadline": null, "done": false}
+    {"text": "Economics SL — Skim key macro diagrams and definitions (15 minutes max)", "deadline": null, "done": false},
+    {"text": "Northwestern housing portal — submit if still not done, June 1 deadline", "deadline": null, "done": false}
   ],
   "key_dates": [
-    {"day": "Apr 24", "event": "IB exam window opens"},
-    {"day": "Apr 28", "event": "Physics HL Paper 1 — 15 days away"},
+    {"day": "Apr 24", "event": "IB exam window opens — exam season is here"},
+    {"day": "Apr 27", "event": "Day before Physics HL — light review only, rest"},
+    {"day": "Apr 28", "event": "Physics HL Paper 1 — 9 days away"},
     {"day": "Apr 29", "event": "Physics HL Paper 2"},
     {"day": "May 7", "event": "English A Lang & Lit SL Paper 1"},
     {"day": "May 12", "event": "Economics SL Paper 2"},
     {"day": "May 14", "event": "Math AA HL Paper 1"},
-    {"day": "May 15", "event": "Chemistry HL Paper 1"},
     {"day": "May 20", "event": "Math AA HL Paper 3 — final exam"}
   ],
-  "notes": "15 days to Physics HL. This is the last full prep week — next Sunday you will be inside the exam window. Physics gets the lion's share of this week. After April 19, pivot to near-full Physics simulation mode until April 28, then pivot hard to English. PanaStudies and Biology modules have been dropped from this week's list — if they are not done, you need to decide now whether to finish them this week or accept the delay. Also: your career plan may be due for an update based on recent conversations about university direction. Talk to your coach when you have a quiet moment."
+  "notes": "This is exam lockdown week. Physics HL owns Monday through Thursday. Two full back-to-back simulations early in the week, then targeted drills only on your weakest areas. Do NOT open new topics or do broad review — you are past that. Sunday April 27 is a rest and light notes day only. Everything else (English, Chem, Math, Econ) gets at most 30-45 minutes total this week — just enough to keep them warm. You have prepared. Now execute."
 }
