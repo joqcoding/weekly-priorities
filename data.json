@@ -1,32 +1,29 @@
 {
-  "week_date": "April 27 – May 3, 2026",
-  "updated_date": "April 26, 2026",
-  "month_theme": "Physics HL exam week — then pivot to English",
+  "week_date": "May 4 – 10, 2026",
+  "updated_date": "May 3, 2026",
+  "month_theme": "English exam week — then pivot to Econ and Spanish",
   "must_do": [
-    {"text": "MONDAY APR 27 — Rest day. Light notes review only (max 1 hour). Sleep well. No new papers.", "deadline": "Apr 27", "done": false},
-    {"text": "TUESDAY APR 28 — Physics HL Paper 1. Show up, execute, trust your preparation.", "deadline": "Apr 28", "done": false},
-    {"text": "WEDNESDAY APR 29 — Physics HL Paper 2. Same mindset. You are ready.", "deadline": "Apr 29", "done": false},
-    {"text": "THU-SAT (Apr 30 - May 2) — English A Lang & Lit SL: 2 timed Paper 1 unseen text analyses under exam conditions. Exam is May 7.", "deadline": "May 2", "done": false},
-    {"text": "THU-SAT (Apr 30 - May 2) — English A Lang & Lit SL: Review Paper 2 comparative essay structure and practiced texts.", "deadline": "May 2", "done": false}
+    {"text": "MON-WED (May 4-6) — English final prep: 1 timed Paper 1 unseen analysis + full Paper 2 practice essay under exam conditions. This is your last push.", "deadline": "May 6", "done": false},
+    {"text": "THURSDAY MAY 7 — English A Lang & Lit SL Paper 1. Unseen text analysis. Trust your technique.", "deadline": "May 7", "done": false},
+    {"text": "FRIDAY MAY 8 — English A Lang & Lit SL Paper 2. Comparative essay. Close the chapter.", "deadline": "May 8", "done": false},
+    {"text": "SAT-SUN (May 9-10) — Economics SL pivot: timed Paper 1 essay (macro topic) + key diagram review. Exam is Monday May 12.", "deadline": "May 10", "done": false}
   ],
   "should_do": [
-    {"text": "Spanish B — Quick sweep of all 5 IO themes. Make a one-page vocab/key points sheet per theme.", "deadline": null, "done": false},
-    {"text": "Economics SL — Paper 1 essay structure review: intro, body (diagram + explanation + evaluation), conclusion.", "deadline": null, "done": false}
+    {"text": "SAT-SUN (May 9-10) — Spanish B: final sweep of all IO themes + key vocab list. Exam is Tuesday May 13.", "deadline": "May 10", "done": false},
+    {"text": "Math AA HL — First dedicated Paper 3 session: review question style and technique (30-45 min). Exam May 14-20.", "deadline": null, "done": false}
   ],
   "could_do": [
-    {"text": "Math AA HL — 20-min Paper 3 technique orientation (exam May 14-20, still time to build this up next week)", "deadline": null, "done": false},
-    {"text": "Take time to decompress after Physics. This was a major milestone.", "deadline": null, "done": false}
+    {"text": "Northwestern Purple Prep — launched this week. Log in and start any mandatory orientation tasks.", "deadline": null, "done": false},
+    {"text": "Chemistry HL — 20-min review: organic synthesis and acid-base key equations (exam May 15).", "deadline": null, "done": false}
   ],
   "key_dates": [
-    {"day": "Apr 27", "event": "Rest day — light review only"},
-    {"day": "Apr 28", "event": "Physics HL Paper 1"},
-    {"day": "Apr 29", "event": "Physics HL Paper 2"},
-    {"day": "May 7", "event": "English A Lang & Lit SL Paper 1 — 11 days away"},
+    {"day": "May 7", "event": "English A Lang & Lit SL Paper 1"},
     {"day": "May 8", "event": "English A Lang & Lit SL Paper 2"},
-    {"day": "May 12", "event": "Economics SL Paper 2"},
+    {"day": "May 12", "event": "Economics SL Paper 2 — 9 days away"},
     {"day": "May 13", "event": "Economics SL Paper 1 + Spanish B"},
     {"day": "May 14", "event": "Math AA HL Paper 1"},
+    {"day": "May 15", "event": "Math AA HL Paper 2 + Chemistry HL Paper 1"},
     {"day": "May 20", "event": "Math AA HL Paper 3 — final exam"}
   ],
-  "notes": "Physics HL is done after Wednesday. From Thursday, English owns the week — you have 8 days to Paper 1 once Physics is over. The pivot has to be immediate and clean. Do not dwell on Physics after Wednesday regardless of how it felt. Spanish and Econ are supporting work this week, not the focus. Math has until May 14 — that gets its own dedicated week starting May 4."
+  "notes": "English owns Monday through Friday. Do not open Econ or Spanish before Thursday — you need full concentration on English this week. After Paper 2 on Friday, the pivot to Econ and Spanish starts immediately on Saturday. Both are May 12-13, which means you only have the weekend to prepare. Keep the Econ and Spanish review tight and high-signal: diagrams, essay structure, and key theme vocabulary — no broad rereading. Math and Chemistry get their dedicated window from May 9 onward."
 }
