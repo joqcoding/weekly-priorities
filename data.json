@@ -1,29 +1,27 @@
 {
-  "week_date": "May 11 – 17, 2026",
-  "updated_date": "May 10, 2026",
-  "month_theme": "The gauntlet — 4 subjects in 4 days, then Math P3",
+  "week_date": "May 18 – 24, 2026",
+  "updated_date": "May 17, 2026",
+  "month_theme": "Close the IB. Open the next chapter.",
   "must_do": [
-    {"text": "MONDAY MAY 11 — Final light review only: Econ key diagrams + Spanish B top 3 IO themes. No new material. Sleep well.", "deadline": "May 11", "done": false},
-    {"text": "TUESDAY MAY 12 — Economics SL Paper 2. Data response and essays.", "deadline": "May 12", "done": false},
-    {"text": "WEDNESDAY MAY 13 — Economics SL Paper 1 + Spanish B. Two exams today. Stay composed between them.", "deadline": "May 13", "done": false},
-    {"text": "THURSDAY MAY 14 — Spanish B Listening + Math AA HL Paper 1. Two exams. Decompress briefly between each.", "deadline": "May 14", "done": false},
-    {"text": "FRIDAY MAY 15 — Math AA HL Paper 2 + Chemistry HL Paper 1. Two exams. This is the last heavy day.", "deadline": "May 15", "done": false},
-    {"text": "WEEKEND MAY 16-17 — Math AA HL Paper 3 prep: 2 focused sessions on style and technique. Exam Thursday May 20.", "deadline": "May 17", "done": false}
+    {"text": "MONDAY MAY 18 — Chemistry HL Paper 2. Acid-base, thermodynamics, redox. Two years of chemistry come down to this. Execute.", "deadline": "May 18", "done": false},
+    {"text": "TUESDAY MAY 19 — Math AA HL Paper 3 final prep. Technique review only — question style familiarity, no new material. Sleep well tonight.", "deadline": "May 19", "done": false},
+    {"text": "WEDNESDAY MAY 20 — Math AA HL Paper 3. Your final IB exam. Close the chapter completely. Then celebrate.", "deadline": "May 20", "done": false},
+    {"text": "THU-SUN — Confirm university commitment and complete any outstanding enrollment deadlines if not already done.", "deadline": "May 24", "done": false}
   ],
   "should_do": [
-    {"text": "WEEKEND MAY 16-17 — Chemistry HL Paper 2 prep: acid-base equilibrium, thermodynamics, and redox key equations. Exam Monday May 18.", "deadline": "May 17", "done": false}
+    {"text": "Northwestern Purple Prep — complete all outstanding mandatory orientation tasks now that exams are done.", "deadline": null, "done": false},
+    {"text": "Summer planning — identify one substantive summer activity: pre-freshman program, self-directed project, or early reading. Decide by end of the week.", "deadline": null, "done": false},
+    {"text": "Set up your development environment: Python, VSCode, and a GitHub portfolio repo. This is the foundation for Year 1 and beyond.", "deadline": null, "done": false}
   ],
   "could_do": [
-    {"text": "Northwestern Purple Prep — complete any outstanding mandatory orientation tasks.", "deadline": null, "done": false},
-    {"text": "After Friday: take a few hours completely off. You will have earned it.", "deadline": null, "done": false}
+    {"text": "Begin light Year 1 prep reading: Calc review, basic statics, or one chapter of an orbital mechanics intro text.", "deadline": null, "done": false},
+    {"text": "Draft a short cold email to 1-2 Northwestern ME or AE professors whose research interests you. Send in June.", "deadline": null, "done": false}
   ],
   "key_dates": [
-    {"day": "May 12", "event": "Economics SL Paper 2"},
-    {"day": "May 13", "event": "Economics SL Paper 1 + Spanish B (Written + Reading)"},
-    {"day": "May 14", "event": "Spanish B Listening + Math AA HL Paper 1"},
-    {"day": "May 15", "event": "Math AA HL Paper 2 + Chemistry HL Paper 1"},
-    {"day": "May 18", "event": "Chemistry HL Paper 2 — 8 days away"},
-    {"day": "May 20", "event": "Math AA HL Paper 3 — FINAL EXAM"}
+    {"day": "May 18", "event": "Chemistry HL Paper 2 — penultimate exam"},
+    {"day": "May 20", "event": "Math AA HL Paper 3 — FINAL IB EXAM"},
+    {"day": "Jun 1", "event": "Northwestern housing preferences deadline"},
+    {"day": "Sep 15", "event": "Northwestern move-in day — 120 days away"}
   ],
-  "notes": "This is the hardest week of the IB. Four subjects, six papers, four days. The only job Monday through Friday is execution — no cramming, no new material after Monday morning. Between exams on the same day, decompress for 20 minutes and do not replay what just happened. Each paper is its own event. After Friday, two exams remain: Chemistry P2 (May 18) and Math P3 (May 20). The weekend is fully dedicated to those. You are three days from closing the IB for good."
+  "notes": "Monday and Wednesday are the only exams left. Tuesday is prep and rest. Wednesday at whatever time your Paper 3 ends, the IB Diploma Programme is finished. Two years of work, done. From Thursday onward, the priorities shift entirely: university transition, summer planning, and laying the first bricks of your Northwestern and career plan. The cislunar freight company gets built one step at a time. This week, the last step of the old chapter and the first of the new one happen in the same seven days."
 }
