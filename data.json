@@ -1,27 +1,26 @@
 {
-  "week_date": "May 18 – 24, 2026",
-  "updated_date": "May 17, 2026",
-  "month_theme": "Close the IB. Open the next chapter.",
+  "week_date": "May 25 – 31, 2026",
+  "updated_date": "May 24, 2026",
+  "month_theme": "IB done. Duke committed. Gap year application due June 1.",
   "must_do": [
-    {"text": "MONDAY MAY 18 — Chemistry HL Paper 2. Acid-base, thermodynamics, redox. Two years of chemistry come down to this. Execute.", "deadline": "May 18", "done": false},
-    {"text": "TUESDAY MAY 19 — Math AA HL Paper 3 final prep. Technique review only — question style familiarity, no new material. Sleep well tonight.", "deadline": "May 19", "done": false},
-    {"text": "WEDNESDAY MAY 20 — Math AA HL Paper 3. Your final IB exam. Close the chapter completely. Then celebrate.", "deadline": "May 20", "done": false},
-    {"text": "THU-SUN — Confirm university commitment and complete any outstanding enrollment deadlines if not already done.", "deadline": "May 24", "done": false}
+    {"text": "Duke Gap Year Program application — finalize and submit before June 1. This is the highest-priority item of the week.", "deadline": "Jun 1", "done": false},
+    {"text": "Duke housing and orientation registration — complete any outstanding enrollment steps regardless of gap year outcome.", "deadline": null, "done": false},
+    {"text": "Update your career coach — your plan was built around Northwestern. Duke changes the course sequence, project teams, and some timelines. Say 'update my plan' to walk through it.", "deadline": null, "done": false}
   ],
   "should_do": [
-    {"text": "Northwestern Purple Prep — complete all outstanding mandatory orientation tasks now that exams are done.", "deadline": null, "done": false},
-    {"text": "Summer planning — identify one substantive summer activity: pre-freshman program, self-directed project, or early reading. Decide by end of the week.", "deadline": null, "done": false},
-    {"text": "Set up your development environment: Python, VSCode, and a GitHub portfolio repo. This is the foundation for Year 1 and beyond.", "deadline": null, "done": false}
+    {"text": "Gap year activity planning — finalize the phase structure: scuba certification (Coiba), glider project, FAA Private Pilot Certificate, Mongolia service (Summer 2027). Lock in any that have registration deadlines.", "deadline": null, "done": false},
+    {"text": "Begin C++ and Calculus BC self-study — these are in the gap year plan and compound over time. Start this week even if lightly.", "deadline": null, "done": false},
+    {"text": "Rest and decompress properly. The IB is done. Take at least 2-3 days before going full throttle on planning.", "deadline": null, "done": false}
   ],
   "could_do": [
-    {"text": "Begin light Year 1 prep reading: Calc review, basic statics, or one chapter of an orbital mechanics intro text.", "deadline": null, "done": false},
-    {"text": "Draft a short cold email to 1-2 Northwestern ME or AE professors whose research interests you. Send in June.", "deadline": null, "done": false}
+    {"text": "Research Duke Pratt first-year ME course sequence and identify aerospace-relevant student teams (AERO, rocketry, design-build-fly).", "deadline": null, "done": false},
+    {"text": "Draft a short introduction email to 1-2 Duke ME or AE faculty doing propulsion or dynamics research. Send in June.", "deadline": null, "done": false}
   ],
   "key_dates": [
-    {"day": "May 18", "event": "Chemistry HL Paper 2 — penultimate exam"},
-    {"day": "May 20", "event": "Math AA HL Paper 3 — FINAL IB EXAM"},
-    {"day": "Jun 1", "event": "Northwestern housing preferences deadline"},
-    {"day": "Sep 15", "event": "Northwestern move-in day — 120 days away"}
+    {"day": "Jun 1", "event": "Duke Gap Year Program application deadline — 8 days away"},
+    {"day": "Jun 1", "event": "Duke housing preferences deadline (if not taking gap year)"},
+    {"day": "Jul 2026", "event": "Gap year activities begin (if accepted)"},
+    {"day": "Aug 2027", "event": "Duke enrollment (if gap year approved)"}
   ],
-  "notes": "Monday and Wednesday are the only exams left. Tuesday is prep and rest. Wednesday at whatever time your Paper 3 ends, the IB Diploma Programme is finished. Two years of work, done. From Thursday onward, the priorities shift entirely: university transition, summer planning, and laying the first bricks of your Northwestern and career plan. The cislunar freight company gets built one step at a time. This week, the last step of the old chapter and the first of the new one happen in the same seven days."
+  "notes": "The IB is finished. You committed to Duke. The gap year application is due June 1 — 8 days away. That is the only hard deadline this week and it needs to be done before anything else. Duke housing registration is a parallel must-do regardless of gap year outcome. Your career plan was built around Northwestern's specific course sequence, project teams, and timeline — it needs to be updated to reflect Duke and the potential gap year. Talk to your coach to revise it. Everything else this week is planning and setup."
 }
