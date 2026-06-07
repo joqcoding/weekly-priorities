@@ -1,26 +1,23 @@
 {
-  "week_date": "June 1 – 7, 2026",
-  "updated_date": "May 31, 2026",
-  "month_theme": "Gap year decision week + Portugal prep",
+  "week_date": "June 8 – 14, 2026",
+  "updated_date": "June 7, 2026",
+  "month_theme": "Portugal & the Pivot — rest, travel, and awaiting gap year news",
   "must_do": [
-    {"text": "MONDAY JUNE 1 — Submit Duke Gap Year Program application. Deadline is today. Do not let this slip past midnight.", "deadline": "Jun 1", "done": false},
-    {"text": "Duke housing and orientation — confirm registration status. Whether or not the gap year is approved, your enrollment needs to be in order.", "deadline": null, "done": false},
-    {"text": "Update your career plan — say 'update my plan'. It still references Northwestern. With Duke confirmed and the gap year pending, the plan needs a full revision before it can guide you accurately.", "deadline": null, "done": false}
+    {"text": "Pack and prep for Portugal — depart ~June 10", "deadline": "June 10", "done": false},
+    {"text": "Check Baret Scholars application status — submitted June 1, check for any update or next steps", "deadline": null, "done": false}
   ],
   "should_do": [
-    {"text": "Portugal trip preparation — confirm all bookings (flights, accommodation, Sintra/Algarve day trips). Trip is in June.", "deadline": null, "done": false},
-    {"text": "Gap year activity planning — begin mapping phase 1 (Aug-Dec 2026): scuba certification registration in Coiba, glider project materials list, C++ course selection.", "deadline": null, "done": false},
-    {"text": "Begin C++ self-study — even one hour this week builds the habit. This is in the gap year plan and compounds over time.", "deadline": null, "done": false}
+    {"text": "Confirm Duke Fall 2026 contingency — be aware of housing/orientation deadlines in case gap year is denied", "deadline": null, "done": false},
+    {"text": "Immerse fully in Lisbon — Alfama, Belém Tower, São Jorge Castle, local food. No laptop-work mode", "deadline": null, "done": false}
   ],
   "could_do": [
-    {"text": "Research Duke Pratt first-year ME course sequence and student aerospace project teams for when you arrive (Fall 2027 if gap year, Fall 2026 if not).", "deadline": null, "done": false},
-    {"text": "Draft intro email to 1-2 Duke ME/AE professors doing propulsion or dynamics research. No need to send yet — just draft it.", "deadline": null, "done": false}
+    {"text": "Sketch a C++ self-study plan outline (15 min, from phone) — prep for gap year Phase 1 groundwork", "deadline": null, "done": false},
+    {"text": "Research Coiba scuba certification programs — operators, schedules, cost", "deadline": null, "done": false}
   ],
   "key_dates": [
-    {"day": "Jun 1", "event": "Duke Gap Year Program application — DUE TODAY"},
-    {"day": "Jun 2026", "event": "Portugal trip — Lisbon and Cascais"},
-    {"day": "Aug 2026", "event": "Gap year begins (if accepted)"},
-    {"day": "Aug 2027", "event": "Duke enrollment (if gap year approved)"}
+    {"day": "Wed Jun 10", "event": "Portugal trip begins — arrive Lisbon"},
+    {"day": "Sat Jun 13", "event": "Festival de São António — Lisbon street festival, don't miss"},
+    {"day": "Sun Jun 14", "event": "Move from Lisbon to Cascais"}
   ],
-  "notes": "The gap year application is due Monday. Everything else this week is secondary to that. Once it is submitted, shift to two parallel tracks: Portugal trip preparation and gap year phase 1 planning. The career plan update is also important — the plan currently references Northwestern course numbers and project teams that do not exist at Duke. A revised plan is what keeps the monthly emails and weekly priorities calibrated correctly. Enjoy the Portugal trip — you earned it."
+  "notes": "This is a rest and travel week by design — monthly priority #1 is actively in motion. Baret Scholars gap year decision is still pending after the June 1 submission and interview. Career plan Duke revision (replacing all Northwestern references) is deferred until return from Portugal around June 18–19. When back, say 'update my plan' to kick that off."
 }
