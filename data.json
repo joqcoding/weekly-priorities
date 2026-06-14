@@ -1,23 +1,24 @@
 {
-  "week_date": "June 8 – 14, 2026",
-  "updated_date": "June 7, 2026",
-  "month_theme": "Portugal & the Pivot — rest, travel, and awaiting gap year news",
+  "week_date": "June 15 – 21, 2026",
+  "updated_date": "June 14, 2026",
+  "month_theme": "Portugal & the Pivot — final stretch of the trip, gap year news pending",
   "must_do": [
-    {"text": "Pack and prep for Portugal — depart ~June 10", "deadline": "June 10", "done": false},
-    {"text": "Check Baret Scholars application status — submitted June 1, check for any update or next steps", "deadline": null, "done": false}
+    {"text": "Check Baret Scholars / Duke gap year deferral status — two weeks since submission, expect news any day", "deadline": null, "done": false},
+    {"text": "Sintra day trip from Cascais — book train or car, go on a weekday morning (30 min from Cascais)", "deadline": "Before Jun 18", "done": false}
   ],
   "should_do": [
-    {"text": "Confirm Duke Fall 2026 contingency — be aware of housing/orientation deadlines in case gap year is denied", "deadline": null, "done": false},
-    {"text": "Immerse fully in Lisbon — Alfama, Belém Tower, São Jorge Castle, local food. No laptop-work mode", "deadline": null, "done": false}
+    {"text": "Enjoy final Cascais days through June 18 — Quinta da Marinha beach, town walks, Atlantic coast", "deadline": null, "done": false},
+    {"text": "Transition to Algarve after June 18 — fully decompress before the return to Panama", "deadline": null, "done": false}
   ],
   "could_do": [
-    {"text": "Sketch a C++ self-study plan outline (15 min, from phone) — prep for gap year Phase 1 groundwork", "deadline": null, "done": false},
-    {"text": "Research Coiba scuba certification programs — operators, schedules, cost", "deadline": null, "done": false}
+    {"text": "Start a short C++ refresher on phone — Codecademy or similar, 20 min/day (no pressure)", "deadline": null, "done": false},
+    {"text": "Sketch post-Portugal action list: career plan update, Duke logistics, gap year groundwork — ready to launch Week of June 22", "deadline": null, "done": false}
   ],
   "key_dates": [
-    {"day": "Wed Jun 10", "event": "Portugal trip begins — arrive Lisbon"},
-    {"day": "Sat Jun 13", "event": "Festival de São António — Lisbon street festival, don't miss"},
-    {"day": "Sun Jun 14", "event": "Move from Lisbon to Cascais"}
+    {"day": "Mon–Wed Jun 15–17", "event": "Cascais — Quinta da Marinha"},
+    {"day": "Wed–Thu Jun 17–18", "event": "Sintra day trip window (best from Cascais)"},
+    {"day": "Thu Jun 18", "event": "Last day in Cascais"},
+    {"day": "Fri Jun 19+", "event": "Algarve or return travel begins"}
   ],
-  "notes": "This is a rest and travel week by design — monthly priority #1 is actively in motion. Baret Scholars gap year decision is still pending after the June 1 submission and interview. Career plan Duke revision (replacing all Northwestern references) is deferred until return from Portugal around June 18–19. When back, say 'update my plan' to kick that off."
+  "notes": "Second and final full week of Portugal. Gap year decision is now 2 weeks pending — Baret Scholars or Duke deferral news could arrive any day; check email. Career plan Duke revision (removing all Northwestern course numbers and project references) is deferred until back in Panama. Week of June 22 will be the first post-vacation action week — expect a bigger Must Do list then."
 }
