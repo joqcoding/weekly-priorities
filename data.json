@@ -1,24 +1,23 @@
 {
-  "week_date": "June 15 – 21, 2026",
-  "updated_date": "June 14, 2026",
-  "month_theme": "Portugal & the Pivot — final stretch of the trip, gap year news pending",
+  "week_date": "June 22 – 28, 2026",
+  "updated_date": "June 21, 2026",
+  "month_theme": "Back in Panama — first real action week",
   "must_do": [
-    {"text": "Check Baret Scholars / Duke gap year deferral status — two weeks since submission, expect news any day", "deadline": null, "done": false},
-    {"text": "Sintra day trip from Cascais — book train or car, go on a weekday morning (30 min from Cascais)", "deadline": "Before Jun 18", "done": false}
+    {"text": "Update career plan — say 'update my plan' to kick off the Duke revision. Northwestern course numbers and project teams are still throughout the document. 7 weeks overdue.", "deadline": "This week", "done": false},
+    {"text": "Follow up on gap year decision — Baret Scholars / Duke deferral is 3 weeks pending since June 1. If no news, email Duke directly for a status update.", "deadline": "Mon Jun 22", "done": false},
+    {"text": "Open brokerage account — you're no longer a minor. Open independently (Fidelity or Schwab recommended). First step to deploying the $10k portfolio.", "deadline": null, "done": false}
   ],
   "should_do": [
-    {"text": "Enjoy final Cascais days through June 18 — Quinta da Marinha beach, town walks, Atlantic coast", "deadline": null, "done": false},
-    {"text": "Transition to Algarve after June 18 — fully decompress before the return to Panama", "deadline": null, "done": false}
+    {"text": "Begin C++ self-study — set up VSCode + GCC compiler, start learncpp.com. Target 30 min/day minimum. Gap year Phase 1 groundwork starts now.", "deadline": null, "done": false},
+    {"text": "Research Coiba scuba certification — contact local operators in Panama, get pricing, availability, and schedule options for Aug–Dec 2026.", "deadline": null, "done": false}
   ],
   "could_do": [
-    {"text": "Start a short C++ refresher on phone — Codecademy or similar, 20 min/day (no pressure)", "deadline": null, "done": false},
-    {"text": "Sketch post-Portugal action list: career plan update, Duke logistics, gap year groundwork — ready to launch Week of June 22", "deadline": null, "done": false}
+    {"text": "Start Khan Academy Personal Finance course — Module 1 foundations. Ties into the personal finance manager skill and brokerage account opening.", "deadline": null, "done": false},
+    {"text": "Sketch Fusion360 relearning plan — identify what skills you need to relearn for the elastically-launched folding-wing glider project.", "deadline": null, "done": false}
   ],
   "key_dates": [
-    {"day": "Mon–Wed Jun 15–17", "event": "Cascais — Quinta da Marinha"},
-    {"day": "Wed–Thu Jun 17–18", "event": "Sintra day trip window (best from Cascais)"},
-    {"day": "Thu Jun 18", "event": "Last day in Cascais"},
-    {"day": "Fri Jun 19+", "event": "Algarve or return travel begins"}
+    {"day": "Mon Jun 22", "event": "First full day back — action mode begins"},
+    {"day": "Jun 22–28", "event": "Gap year decision now 3+ weeks pending — follow up if no news by Monday"}
   ],
-  "notes": "Second and final full week of Portugal. Gap year decision is now 2 weeks pending — Baret Scholars or Duke deferral news could arrive any day; check email. Career plan Duke revision (removing all Northwestern course numbers and project references) is deferred until back in Panama. Week of June 22 will be the first post-vacation action week — expect a bigger Must Do list then."
+  "notes": "Portugal is done. The vacation earned, the break taken. This week marks the hard pivot to execution. The gap year decision is the gating factor for detailed planning — but both paths (Baret Scholars or independent) share the same Phase 1 groundwork: C++, scuba, glider project. Start moving on all three regardless of the decision. Career plan update is the foundation everything else is built on — it cannot wait another week."
 }
