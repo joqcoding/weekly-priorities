@@ -1,23 +1,23 @@
 {
-  "week_date": "June 22 – 28, 2026",
-  "updated_date": "June 21, 2026",
-  "month_theme": "Back in Panama — first real action week",
+  "week_date": "June 29 – July 5, 2026",
+  "updated_date": "June 28, 2026",
+  "month_theme": "Week 1 of the independent gap year — decisions made, execution begins",
   "must_do": [
-    {"text": "Update career plan — say 'update my plan' to kick off the Duke revision. Northwestern course numbers and project teams are still throughout the document. 7 weeks overdue.", "deadline": "This week", "done": false},
-    {"text": "Follow up on gap year decision — Baret Scholars / Duke deferral is 3 weeks pending since June 1. If no news, email Duke directly for a status update.", "deadline": "Mon Jun 22", "done": false},
-    {"text": "Open brokerage account — you're no longer a minor. Open independently (Fidelity or Schwab recommended). First step to deploying the $10k portfolio.", "deadline": null, "done": false}
+    {"text": "Confirm Baret Scholars decline is sent — if not done this weekend, send it Monday morning. Then notify Duke of gap year deferral acceptance.", "deadline": "Mon Jun 29", "done": false},
+    {"text": "Say 'update my plan' — career plan Duke revision is 8 weeks overdue. Gap year path is now confirmed, making this the most urgent single task. Everything downstream depends on it.", "deadline": "This week", "done": false},
+    {"text": "Open brokerage account — Fidelity or Schwab. Still pending from last week. Get it done.", "deadline": null, "done": false}
   ],
   "should_do": [
-    {"text": "Begin C++ self-study — set up VSCode + GCC compiler, start learncpp.com. Target 30 min/day minimum. Gap year Phase 1 groundwork starts now.", "deadline": null, "done": false},
-    {"text": "Research Coiba scuba certification — contact local operators in Panama, get pricing, availability, and schedule options for Aug–Dec 2026.", "deadline": null, "done": false}
+    {"text": "Begin C++ self-study in earnest — learncpp.com, VSCode + GCC setup, 30 min/day minimum. This is now confirmed gap year Phase 1 work.", "deadline": null, "done": false},
+    {"text": "Research Coiba scuba certification operators — call or email programs, get pricing and Aug–Dec 2026 availability.", "deadline": null, "done": false}
   ],
   "could_do": [
-    {"text": "Start Khan Academy Personal Finance course — Module 1 foundations. Ties into the personal finance manager skill and brokerage account opening.", "deadline": null, "done": false},
-    {"text": "Sketch Fusion360 relearning plan — identify what skills you need to relearn for the elastically-launched folding-wing glider project.", "deadline": null, "done": false}
+    {"text": "Open Fusion360 and reacquaint with the interface — 30 min to rebuild the muscle memory needed for the glider project.", "deadline": null, "done": false},
+    {"text": "Start Khan Academy Personal Finance Module 1 — foundations, pairs well with brokerage account opening.", "deadline": null, "done": false}
   ],
   "key_dates": [
-    {"day": "Mon Jun 22", "event": "First full day back — action mode begins"},
-    {"day": "Jun 22–28", "event": "Gap year decision now 3+ weeks pending — follow up if no news by Monday"}
+    {"day": "Mon Jun 29", "event": "Week 1 of post-decision execution — Baret decline sent, gap year deferral confirmed"},
+    {"day": "Sat Jul 4", "event": "US Independence Day — US contacts mostly offline, plan around it"}
   ],
-  "notes": "Portugal is done. The vacation earned, the break taken. This week marks the hard pivot to execution. The gap year decision is the gating factor for detailed planning — but both paths (Baret Scholars or independent) share the same Phase 1 groundwork: C++, scuba, glider project. Start moving on all three regardless of the decision. Career plan update is the foundation everything else is built on — it cannot wait another week."
+  "notes": "The two big decisions are locked in: Duke committed (Fall 2027), Baret declined in favor of the independent path. No more deliberation — this week is pure execution. The career plan update is the foundation everything else is built on: Phase 1 milestones, revised internship timeline, Duke Fall 2027 academic plan. It cannot wait another week. Start C++ now — Aug 2026 arrives faster than it feels."
 }
