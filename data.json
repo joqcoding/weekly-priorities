@@ -1,23 +1,25 @@
 {
-  "week_date": "June 29 – July 5, 2026",
-  "updated_date": "June 28, 2026",
-  "month_theme": "Week 1 of the independent gap year — decisions made, execution begins",
+  "week_date": "July 6 – 12, 2026",
+  "updated_date": "July 5, 2026",
+  "month_theme": "Final prep — 26 days until Phase 1 begins",
   "must_do": [
-    {"text": "Confirm Baret Scholars decline is sent — if not done this weekend, send it Monday morning. Then notify Duke of gap year deferral acceptance.", "deadline": "Mon Jun 29", "done": false},
-    {"text": "Say 'update my plan' — career plan Duke revision is 8 weeks overdue. Gap year path is now confirmed, making this the most urgent single task. Everything downstream depends on it.", "deadline": "This week", "done": false},
-    {"text": "Open brokerage account — Fidelity or Schwab. Still pending from last week. Get it done.", "deadline": null, "done": false}
+    {"text": "Say 'update my plan' — career plan rebuild is ready. Phase 1 locked (Aug 1–mid-Dec), trips mapped, Duke confirmed Fall 2027. No more blockers. This is the week.", "deadline": "This week", "done": false},
+    {"text": "Finalize Coiba trip logistics — happening in July before Aug 1. Lock in exact dates, operator, transport. Not a gap year deliverable — just a trip, get it sorted now.", "deadline": "ASAP", "done": false},
+    {"text": "Open brokerage account — Fidelity or Schwab. 5+ weeks overdue. Gap year starts in 26 days. Financial habits should precede the routine, not follow it.", "deadline": null, "done": false}
   ],
   "should_do": [
-    {"text": "Begin C++ self-study in earnest — learncpp.com, VSCode + GCC setup, 30 min/day minimum. This is now confirmed gap year Phase 1 work.", "deadline": null, "done": false},
-    {"text": "Research Coiba scuba certification operators — call or email programs, get pricing and Aug–Dec 2026 availability.", "deadline": null, "done": false}
+    {"text": "Begin C++ self-study — learncpp.com, VSCode + GCC, 30 min/day. The Aug 1 routine is 26 days away. Starting now means arriving there with 3.5 weeks of momentum.", "deadline": null, "done": false},
+    {"text": "Draft engineering project sprint proposal — sprint is in November, but proposal should be done before Europe (Oct 1). Rough outline this week.", "deadline": null, "done": false},
+    {"text": "Continue internship research — kicked off July 5. Build on the momentum: identify 3 target companies for Sophomore summer 2029 and what they look for.", "deadline": null, "done": false}
   ],
   "could_do": [
-    {"text": "Open Fusion360 and reacquaint with the interface — 30 min to rebuild the muscle memory needed for the glider project.", "deadline": null, "done": false},
-    {"text": "Start Khan Academy Personal Finance Module 1 — foundations, pairs well with brokerage account opening.", "deadline": null, "done": false}
+    {"text": "Decide PPL path — Phase 2 (Jan–Mar 2027) or Phase 3 (Apr–Aug 2027). Helps finalize the career plan and internship timeline.", "deadline": null, "done": false},
+    {"text": "Open Fusion360 for 30 minutes — rebuild the muscle memory for the glider project. Just the interface, no pressure to design yet.", "deadline": null, "done": false}
   ],
   "key_dates": [
-    {"day": "Mon Jun 29", "event": "Week 1 of post-decision execution — Baret decline sent, gap year deferral confirmed"},
-    {"day": "Sat Jul 4", "event": "US Independence Day — US contacts mostly offline, plan around it"}
+    {"day": "Mon Jul 6", "event": "26 days until Aug 1 — Phase 1 routine launch"},
+    {"day": "Late July", "event": "Coiba trip — must be booked and confirmed this week"},
+    {"day": "Aug 1", "event": "Gap year Phase 1 begins — continuous routine in Panama City"}
   ],
-  "notes": "The two big decisions are locked in: Duke committed (Fall 2027), Baret declined in favor of the independent path. No more deliberation — this week is pure execution. The career plan update is the foundation everything else is built on: Phase 1 milestones, revised internship timeline, Duke Fall 2027 academic plan. It cannot wait another week. Start C++ now — Aug 2026 arrives faster than it feels."
+  "notes": "Gap year Phase 1 is fully mapped: Aug 1–mid-Dec, continuous routine in Panama City. Trips built in: Colorado (Sept), Europe Oct 1-15, engineering sprint (Nov), Japan (mid-Dec). The uncertainty you felt on July 4 is completely normal before a big transition — it's not a signal to rethink, it's a signal to start. The routine is the antidote to uncertainty. 26 days."
 }
