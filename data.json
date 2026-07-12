@@ -1,25 +1,24 @@
 {
-  "week_date": "July 6 – 12, 2026",
-  "updated_date": "July 5, 2026",
-  "month_theme": "Final prep — 26 days until Phase 1 begins",
+  "week_date": "July 13 – 19, 2026",
+  "updated_date": "July 12, 2026",
+  "month_theme": "Final prep — 18 days to Phase 1 launch",
   "must_do": [
-    {"text": "Say 'update my plan' — career plan rebuild is ready. Phase 1 locked (Aug 1–mid-Dec), trips mapped, Duke confirmed Fall 2027. No more blockers. This is the week.", "deadline": "This week", "done": false},
-    {"text": "Finalize Coiba trip logistics — happening in July before Aug 1. Lock in exact dates, operator, transport. Not a gap year deliverable — just a trip, get it sorted now.", "deadline": "ASAP", "done": false},
-    {"text": "Open brokerage account — Fidelity or Schwab. 5+ weeks overdue. Gap year starts in 26 days. Financial habits should precede the routine, not follow it.", "deadline": null, "done": false}
+    {"text": "Book Coiba trip NOW — the late-July window before Aug 1 is closing. Taiwan is done. Pick up the phone, contact an operator, get dates and transport confirmed. This cannot wait another week.", "deadline": "Mon Jul 13", "done": false},
+    {"text": "Open brokerage account — Fidelity or Schwab. 6+ weeks overdue. Phase 1 starts in 18 days. The financial habit should be running before the gap year routine, not after.", "deadline": "This week", "done": false},
+    {"text": "Set up Phase 1 workspace — laptop is upgraded (32GB RAM, done in Taipei). First day back in Panama: install VSCode + GCC for C++, reinstall Fusion360, verify everything runs. Your tools should be ready before Aug 1.", "deadline": "First day back", "done": false}
   ],
   "should_do": [
-    {"text": "Begin C++ self-study — learncpp.com, VSCode + GCC, 30 min/day. The Aug 1 routine is 26 days away. Starting now means arriving there with 3.5 weeks of momentum.", "deadline": null, "done": false},
-    {"text": "Draft engineering project sprint proposal — sprint is in November, but proposal should be done before Europe (Oct 1). Rough outline this week.", "deadline": null, "done": false},
-    {"text": "Continue internship research — kicked off July 5. Build on the momentum: identify 3 target companies for Sophomore summer 2029 and what they look for.", "deadline": null, "done": false}
+    {"text": "Begin C++ self-study — learncpp.com, 30 min/day. No more deferring. 18 days until the routine is live. Starting now means 2.5 weeks of momentum on day one.", "deadline": null, "done": false},
+    {"text": "Review and confirm career plan — credential stack was updated July 4 (ECE minor, ML/AI minor, Robotics cert, I&E cert for Duke). Read through the full plan and confirm it aligns with Duke Fall 2027 and Phase 1-3 milestones.", "deadline": null, "done": false}
   ],
   "could_do": [
-    {"text": "Decide PPL path — Phase 2 (Jan–Mar 2027) or Phase 3 (Apr–Aug 2027). Helps finalize the career plan and internship timeline.", "deadline": null, "done": false},
-    {"text": "Open Fusion360 for 30 minutes — rebuild the muscle memory for the glider project. Just the interface, no pressure to design yet.", "deadline": null, "done": false}
+    {"text": "Set up flight simulator with HOTAS gear from Guanghua — Thrustmaster or Cobra V5. Load Microsoft Flight Simulator or X-Plane. PPL mental prep: learn cockpit layout, basic flight dynamics.", "deadline": null, "done": false},
+    {"text": "First Krav Maga session back in Panama — get back on the weekday evening schedule after Taiwan travel.", "deadline": null, "done": false}
   ],
   "key_dates": [
-    {"day": "Mon Jul 6", "event": "26 days until Aug 1 — Phase 1 routine launch"},
-    {"day": "Late July", "event": "Coiba trip — must be booked and confirmed this week"},
-    {"day": "Aug 1", "event": "Gap year Phase 1 begins — continuous routine in Panama City"}
+    {"day": "Mon Jul 13", "event": "Back in Panama — workspace setup day, Coiba booking call"},
+    {"day": "Jul 20–25", "event": "Target window for Coiba trip — must be confirmed this week"},
+    {"day": "Aug 1", "event": "Phase 1 routine begins — 18 days away"}
   ],
-  "notes": "Gap year Phase 1 is fully mapped: Aug 1–mid-Dec, continuous routine in Panama City. Trips built in: Colorado (Sept), Europe Oct 1-15, engineering sprint (Nov), Japan (mid-Dec). The uncertainty you felt on July 4 is completely normal before a big transition — it's not a signal to rethink, it's a signal to start. The routine is the antidote to uncertainty. 26 days."
+  "notes": "Taiwan trip wrapped up: RAM upgraded to 32GB, HOTAS equipment acquired for PPL prep. Good instincts — you're already building the gear for Phase 1 before it starts. Career plan credential stack is updated. Three things that cannot slip into August unfixed: Coiba booking, brokerage account, C++ start. Aug 1 is not flexible."
 }
