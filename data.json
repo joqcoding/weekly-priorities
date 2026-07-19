@@ -1,24 +1,26 @@
 {
-  "week_date": "July 13 – 19, 2026",
-  "updated_date": "July 12, 2026",
-  "month_theme": "Final prep — 18 days to Phase 1 launch",
+  "week_date": "July 20 – 26, 2026",
+  "updated_date": "July 19, 2026",
+  "month_theme": "Final sprint — 12 days to Phase 1, 17 days to Colorado",
   "must_do": [
-    {"text": "Book Coiba trip NOW — the late-July window before Aug 1 is closing. Taiwan is done. Pick up the phone, contact an operator, get dates and transport confirmed. This cannot wait another week.", "deadline": "Mon Jul 13", "done": false},
-    {"text": "Open brokerage account — Fidelity or Schwab. 6+ weeks overdue. Phase 1 starts in 18 days. The financial habit should be running before the gap year routine, not after.", "deadline": "This week", "done": false},
-    {"text": "Set up Phase 1 workspace — laptop is upgraded (32GB RAM, done in Taipei). First day back in Panama: install VSCode + GCC for C++, reinstall Fusion360, verify everything runs. Your tools should be ready before Aug 1.", "deadline": "First day back", "done": false}
+    {"text": "Book Colorado Springs — RIGHT NOW. RAD Hostel + flights PTY → DEN or COS. Trip is Aug 6–11, only 17 days away. Hostel and flights decided, just not booked. Do it Monday morning.", "deadline": "Mon Jul 20", "done": false},
+    {"text": "Do the Coiba trip — the pre-gap window closes Aug 1. If not already arranged, this has to happen this week or early next. Last call.", "deadline": "Before Aug 1", "done": false},
+    {"text": "Open brokerage account — Fidelity or Schwab. Phase 1 starts in 12 days. 7+ weeks overdue. The routine starts Aug 1; the financial habit should be running before then.", "deadline": "This week", "done": false}
   ],
   "should_do": [
-    {"text": "Begin C++ self-study — learncpp.com, 30 min/day. No more deferring. 18 days until the routine is live. Starting now means 2.5 weeks of momentum on day one.", "deadline": null, "done": false},
-    {"text": "Review and confirm career plan — credential stack was updated July 4 (ECE minor, ML/AI minor, Robotics cert, I&E cert for Duke). Read through the full plan and confirm it aligns with Duke Fall 2027 and Phase 1-3 milestones.", "deadline": null, "done": false}
+    {"text": "Begin C++ self-study — learncpp.com, VSCode + GCC, 30 min/day. Phase 1 is 12 days away. Starting now means arriving Aug 1 with almost 2 weeks of momentum.", "deadline": null, "done": false},
+    {"text": "Decide Europe route — countries are still TBD. Oct 1 is 10 weeks out. Option A: Lisbon → Porto → Madrid → Paris → London. Option B: Prague → Vienna → Budapest → Amsterdam → London. Lock it in and update the Notion Europe page.", "deadline": null, "done": false}
   ],
   "could_do": [
-    {"text": "Set up flight simulator with HOTAS gear from Guanghua — Thrustmaster or Cobra V5. Load Microsoft Flight Simulator or X-Plane. PPL mental prep: learn cockpit layout, basic flight dynamics.", "deadline": null, "done": false},
-    {"text": "First Krav Maga session back in Panama — get back on the weekday evening schedule after Taiwan travel.", "deadline": null, "done": false}
+    {"text": "Join RAeS as student member (£20 at raes.org.uk) — needed before the London week in October. Takes 5 minutes now, easy to forget later.", "deadline": null, "done": false},
+    {"text": "Start Portuguese A2 prep — Phase I deliverable. Even 10 min/day on Duolingo or a structured A2 course counts. Citizenship exam prep starts now.", "deadline": null, "done": false}
   ],
   "key_dates": [
-    {"day": "Mon Jul 13", "event": "Back in Panama — workspace setup day, Coiba booking call"},
-    {"day": "Jul 20–25", "event": "Target window for Coiba trip — must be confirmed this week"},
-    {"day": "Aug 1", "event": "Phase 1 routine begins — 18 days away"}
+    {"day": "Mon Jul 20", "event": "Book RAD Hostel + flights for Colorado — first thing"},
+    {"day": "Jul 20–31", "event": "Coiba trip window — must happen before Aug 1"},
+    {"day": "Thu Jul 30", "event": "Last full day before gap year Phase 1"},
+    {"day": "Sat Aug 1", "event": "Phase 1 begins — routine launches"},
+    {"day": "Thu Aug 6", "event": "Colorado Springs — 17 days away"}
   ],
-  "notes": "Taiwan trip wrapped up: RAM upgraded to 32GB, HOTAS equipment acquired for PPL prep. Good instincts — you're already building the gear for Phase 1 before it starts. Career plan credential stack is updated. Three things that cannot slip into August unfixed: Coiba booking, brokerage account, C++ start. Aug 1 is not flexible."
+  "notes": "Colorado trip changed from RMNP backcountry (Aug 20-28) to Colorado Springs day hiking (Aug 6-11) — Garden of the Gods, Pikes Peak, Cheyenne Canyon. No backcountry permit needed. Great call for a first trip. Friend's college starts spring so this is the only viable window. Phase 1 launches in 12 days: C++ / CS50P certificates, Portuguese A2 prep, physical routine (Krav Maga + fitness), flight sim practice. The gap year you have in August is the one you build this week."
 }
