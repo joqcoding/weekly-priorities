@@ -1,25 +1,25 @@
 {
-  "week_date": "July 27 – August 2, 2026",
-  "updated_date": "July 26, 2026",
-  "month_theme": "Phase 1 launches Friday — the gap year starts now",
+  "week_date": "August 3 – 9, 2026",
+  "updated_date": "August 2, 2026",
+  "month_theme": "Phase 1, Week 1 — return from Austin and launch the grind",
   "must_do": [
-    {"text": "Buy Austin flights TODAY — trip starts Aug 2 (Sunday), only 6 days away and tickets aren't booked. PTY → AUS. Do this before anything else this week. Reward waiting: the Finals battlepass.", "deadline": "Mon Jul 27", "done": false},
-    {"text": "Open brokerage account — custodial or independent (Fidelity/Schwab). Phase 1 starts Aug 1. This has been pending since June. It opens before the routine does, not after.", "deadline": "Before Aug 1", "done": false},
-    {"text": "Set up Phase 1 daily routine before Aug 1 — write out the daily schedule (C++/CS50P block + Portuguese A2 + fitness + flight sim), decide times, commit to it. Aug 1 is not a soft start.", "deadline": "Before Aug 1", "done": false}
+    {"text": "Launch the routine on Aug 6 — the no-travel block starts the day you return from Austin. Not the next Monday. That afternoon or first thing Aug 7: confirm your daily schedule times and begin. C++/CS50P block + Portuguese A2 prep + fitness (Krav Maga + cardio/weights) + flight sim. Day 1 of the real work block.", "deadline": "Thu Aug 6", "done": false},
+    {"text": "Open brokerage account by end of week — custodial with parents, Fidelity or Schwab. Monthly goal is first ETF purchase by Aug 15. The account must be open this week to hit that deadline. Don't let it slip to next week.", "deadline": "Sun Aug 9", "done": false},
+    {"text": "Start internship application research — identify your 3 top aerospace targets from: Impulse Space, Orbit Fab, Astroscale, Rocket Lab, True Anomaly, Intuitive Machines. Confirm China program name and application requirements. One focused hour. Sep 30 has 4 deadlines and they don't write themselves.", "deadline": "This week", "done": false}
   ],
   "should_do": [
-    {"text": "Resolve Peru / Japan date overlap — Peru ends Dec 18, Japan starts Dec 15. Three days conflict. Either trim Peru to Dec 14 or confirm Japan starts Dec 16+. Do this now while plans are fresh.", "deadline": null, "done": false},
-    {"text": "Decide Europe route and add to Notion — Option A (Lisbon → Madrid → Paris → London) or Option B (Prague → Vienna → Budapest → Amsterdam → London). Oct 1 is 9 weeks out. Lock it in.", "deadline": null, "done": false}
+    {"text": "First C++/CS50P session — read learncpp.com Chapter 1, start CS50P Problem Set 0. Get the counter running. August target is PS 0-2 complete + Chapter 5 reached.", "deadline": null, "done": false},
+    {"text": "Resolve Peru/Japan date overlap — Peru ends Dec 18, Japan starts Dec 15. Three days conflict. Decision: trim Peru to Dec 14 or confirm Japan starts Dec 16+. Pick one and update Notion.", "deadline": null, "done": false}
   ],
   "could_do": [
-    {"text": "Fill out Austin trip planning form in Notion — once tickets are bought, plan 4 days of activities (Sixth Street, Barton Springs, day hike, food scene). 5-minute task.", "deadline": null, "done": false},
-    {"text": "Start Portuguese A2 prep — Phase I deliverable. 10 min/day minimum. Duolingo or a structured A2 course. The sooner the habit forms, the better.", "deadline": null, "done": false}
+    {"text": "Decide Europe route — Option A: Lisbon → Porto → Madrid → Paris → London (Eurostar). Option B: Prague → Vienna → Budapest → Amsterdam → London. Oct 1 is 8 weeks out. Lock it in and start looking at rail passes.", "deadline": null, "done": false},
+    {"text": "Set up Portuguese A2 resource — install Duolingo or find a structured A2 course. 10 min/day is the Phase 1 target. Set the habit before the routine is locked in.", "deadline": null, "done": false}
   ],
   "key_dates": [
-    {"day": "Mon Jul 27", "event": "Book Austin flights — first task of the week"},
-    {"day": "Fri Aug 1", "event": "Phase 1 LAUNCHES — routine begins (C++, Portuguese A2, fitness, flight sim)"},
-    {"day": "Sun Aug 2", "event": "Austin trip begins — 5 nights"},
-    {"day": "Thu Aug 6", "event": "Back from Austin — no-travel work block begins (Aug 6–Sep 30)"}
+    {"day": "Mon Aug 3 – Wed Aug 5", "event": "Austin trip (enjoy it)"},
+    {"day": "Thu Aug 6", "event": "Return from Austin — no-travel block begins. Routine Day 1."},
+    {"day": "Sun Aug 9", "event": "Brokerage account must be open by today"},
+    {"day": "Fri Aug 15", "event": "First ETF purchase deadline (next week — account must be open now)"}
   ],
-  "notes": "PADI Open Water: done at Coiba. Checked off the list. Phase 2 has been overhauled: Peru (Dec 1-18) → Japan (Dec 15-Jan 15, overlap to resolve) → Kaohsiung volunteering (Jan 15-Feb 15) → China internship (Feb 15-Mar 31). Sep 30 is a 4-deadline day: 3× aerospace internship apps + engineering project proposal + China internship application. Start thinking about all five now — they land simultaneously."
+  "notes": "Phase 1 officially running since Aug 1. This is the transition week: half Austin, half grind. The Aug 1 monthly email set four priorities — all need their first concrete steps this week. Sep 30 has 4 simultaneous deadlines (3× aerospace internship apps + engineering proposal + China internship app). Every week from now through September builds toward those. The routine has to be automatic by Sep 1."
 }
